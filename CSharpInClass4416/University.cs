@@ -22,6 +22,15 @@ namespace CSharpInClass4416
             _costPerSemester = 0.00;
             _doCreditsTransfer = false;
         }
+       
+        public University(string name, string location, string fieldOfStudy, double costPerSemester, bool doCreditsTransfer)
+        {
+            _name = name;
+            _location = location;
+            _fieldOfStudy = fieldOfStudy;
+            _costPerSemester = costPerSemester;
+            _doCreditsTransfer = doCreditsTransfer;
+        }
 
         public string Name
         {
@@ -49,5 +58,24 @@ namespace CSharpInClass4416
             set { _doCreditsTransfer = value; }
         }
 
+        public string summary()
+        {
+            return "Name Of University: " + _name + " || Location of University: " + _location +
+                " || Field of Study: " + _fieldOfStudy + " || Cost Per Semester: " + _costPerSemester.ToString("c") +
+                " || Will Credits Transfer: " + _doCreditsTransfer.ToString();
+        }
+
+        public string summary(string name, string location, string fieldOfStudy, double costPerSemester, bool doCreditsTransfer)
+        {
+            return "Name Of University: " + name + "\nLocation of University: " + location +
+                "\nField of Study: " + fieldOfStudy + "\nCost Per Semester: " + costPerSemester.ToString("c") +
+                "\nWill Credits Transfer: " + doCreditsTransfer.ToString();
+        }
+
+        public string summary(string name, string location, string fieldOfStudy)
+        {
+            return "Name Of University: " + name + "\nLocation of University: " + location +
+                "\nField of Study: " + fieldOfStudy;
+        }
     }
 }
