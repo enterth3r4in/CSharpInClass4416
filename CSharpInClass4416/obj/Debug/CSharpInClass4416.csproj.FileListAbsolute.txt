@@ -1,0 +1,10 @@
+C:\Users\CM185181\Documents\GitHub\CSharpInClass4416\CSharpInClass4416\bin\Debug\CSharpInClass4416.exe.config
+C:\Users\CM185181\Documents\GitHub\CSharpInClass4416\CSharpInClass4416\bin\Debug\CSharpInClass4416.exe
+C:\Users\CM185181\Documents\GitHub\CSharpInClass4416\CSharpInClass4416\bin\Debug\CSharpInClass4416.pdb
+C:\Users\CM185181\Documents\GitHub\CSharpInClass4416\CSharpInClass4416\obj\Debug\CSharpInClass4416.csprojResolveAssemblyReference.cache
+C:\Users\CM185181\Documents\GitHub\CSharpInClass4416\CSharpInClass4416\obj\Debug\CSharpInClass4416.Form1.resources
+C:\Users\CM185181\Documents\GitHub\CSharpInClass4416\CSharpInClass4416\obj\Debug\CSharpInClass4416.Properties.Resources.resources
+C:\Users\CM185181\Documents\GitHub\CSharpInClass4416\CSharpInClass4416\obj\Debug\CSharpInClass4416.csproj.GenerateResource.Cache
+C:\Users\CM185181\Documents\GitHub\CSharpInClass4416\CSharpInClass4416\obj\Debug\CSharpInClass4416.exe
+C:\Users\CM185181\Documents\GitHub\CSharpInClass4416\CSharpInClass4416\obj\Debug\CSharpInClass4416.pdb
+C:\Users\CM185181\Documents\GitHub\CSharpInClass4416\CSharpInClass4416\obj\Debug\CSharpInClass4416.DiceTwo.resources
