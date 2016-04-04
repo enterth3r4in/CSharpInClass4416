@@ -16,7 +16,11 @@ namespace CSharpInClass4416
 
         public University()
         {
-
+            _name = "";
+            _location = "";
+            _fieldOfStudy = "";
+            _costPerSemester = 0.00;
+            _doCreditsTransfer = false;
         }
 
         public string Name
